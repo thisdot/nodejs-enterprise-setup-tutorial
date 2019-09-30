@@ -1,7 +1,4 @@
 /*
- Task Model Database models
-*/
-/*
  Database model
 */
 const mongoose = require('mongoose');
