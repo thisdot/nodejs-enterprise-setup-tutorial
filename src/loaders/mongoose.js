@@ -9,7 +9,6 @@ const mongoDB = {
       const mongoDBURI = config().database_URL;
       const connection = await mongoose.connect(mongoDBURI, {
         useNewUrlParser: true,
-        userCreateIndex: true,
         useUnifiedTopology: true
       });
       console.log(`  ✌️ DB loaded and connected!`);
