@@ -1,3 +1,11 @@
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
+![GitHub](https://img.shields.io/github/license/thisdot/nodejs-enterprise-setup-tutorial.svg)
+![GitHub forks](https://img.shields.io/github/forks/thisdot/nodejs-enterprise-setup-tutorial.svg)
+![GitHub issues](https://img.shields.io/github/issues/thisdot/node-enterprise-setup-shell.svg)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/thisdot/nodejs-enterprise-setup-tutorial.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/thisdot/nodejs-enterprise-setup-tutorial.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/thisdot/nodejs-enterprise-setup-tutorial.svg)
+
 # NodeJS Enterprise Setup
 
 If you are new into NodeJS and need to start working on an enterprise project, then take a look to this completed example with a shell project structure and
